@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/bin/Debug/netcoreapp2.1/GenericLists.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/bin/Debug/netcoreapp2.1/GenericLists.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/bin/Debug/netcoreapp2.1/GenericLists.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/bin/Debug/netcoreapp2.1/GenericLists.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/bin/Debug/netcoreapp2.1/GenericLists.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/obj/Debug/netcoreapp2.1/GenericLists.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/obj/Debug/netcoreapp2.1/GenericLists.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/obj/Debug/netcoreapp2.1/GenericLists.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/obj/Debug/netcoreapp2.1/GenericLists.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericLists/obj/Debug/netcoreapp2.1/GenericLists.pdb

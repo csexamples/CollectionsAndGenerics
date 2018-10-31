@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/bin/Debug/netcoreapp2.1/GenericClass.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/bin/Debug/netcoreapp2.1/GenericClass.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/bin/Debug/netcoreapp2.1/GenericClass.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/bin/Debug/netcoreapp2.1/GenericClass.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/bin/Debug/netcoreapp2.1/GenericClass.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/obj/Debug/netcoreapp2.1/GenericClass.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/obj/Debug/netcoreapp2.1/GenericClass.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/obj/Debug/netcoreapp2.1/GenericClass.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/obj/Debug/netcoreapp2.1/GenericClass.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/obj/Debug/netcoreapp2.1/GenericClass.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericClass/obj/Debug/netcoreapp2.1/GenericClass.csprojAssemblyReference.cache

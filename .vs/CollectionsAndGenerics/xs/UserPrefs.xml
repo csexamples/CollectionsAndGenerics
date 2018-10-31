@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{656C469C-6CCE-49AD-91D5-46E205651E02}|Default">
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQ/Program.cs">
+    <Files>
+      <File FileName="LINQ/Program.cs" Line="23" Column="10" />
+      <File FileName="LINQ/Vendor.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollectionsAndGenerics" expanded="True">
+            <Node name="Arrays" expanded="True" />
+            <Node name="GenericClass" expanded="True" />
+            <Node name="GenericCollectionInterfaces" expanded="True" />
+            <Node name="GenericDictionaries" expanded="True" />
+            <Node name="GenericLists" expanded="True" />
+            <Node name="LINQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GenericClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GenericCollectionInterfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GenericLists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GenericDictionaries PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

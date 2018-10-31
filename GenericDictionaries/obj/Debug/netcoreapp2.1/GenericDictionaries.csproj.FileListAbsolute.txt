@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/bin/Debug/netcoreapp2.1/GenericDictionaries.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/bin/Debug/netcoreapp2.1/GenericDictionaries.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/bin/Debug/netcoreapp2.1/GenericDictionaries.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/bin/Debug/netcoreapp2.1/GenericDictionaries.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/bin/Debug/netcoreapp2.1/GenericDictionaries.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/obj/Debug/netcoreapp2.1/GenericDictionaries.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/obj/Debug/netcoreapp2.1/GenericDictionaries.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/obj/Debug/netcoreapp2.1/GenericDictionaries.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/obj/Debug/netcoreapp2.1/GenericDictionaries.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CollectionsAndGenerics/GenericDictionaries/obj/Debug/netcoreapp2.1/GenericDictionaries.pdb
